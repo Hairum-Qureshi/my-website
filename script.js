@@ -4,7 +4,7 @@ let showMsg = false;
 
 const specialMsgs = [
 	"🌱 Go touch grass 🌱",
-	"Shh… don’t tell anyone, but this button does nothing important",
+	"Shh… don't tell anyone, but this button does nothing important",
 	"Remember: licking doorknobs is illegal on other planets",
 	"Achievement unlocked: Professional Button Presser 🏆",
 	"console.log('Hello from the other side!')",
