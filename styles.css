@@ -1,3 +1,23 @@
 h1 {
-	color: orange;
+	color: green;
+	font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+		"Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+button {
+	padding: 10px;
+	font-size: 1rem;
+	border-radius: 10px;
+	outline: none;
+}
+
+button:hover {
+	cursor: pointer;
+}
+
+p {
+	font-weight: bold;
+	font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+		"Lucida Sans", Arial, sans-serif;
+	color: green;
 }
